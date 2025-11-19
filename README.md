@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJlNTl2bXcxc2R4bnBrZGE2NHc5Zm1pczZ2Y2h4N3JrNDF5YXFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJlNTl2bXcxc2R4bnBrZGE2NHc5Zm1pczZ2Y2h4N3JrNDF5YXFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4ade80;">Usman Akram</span></h1>
